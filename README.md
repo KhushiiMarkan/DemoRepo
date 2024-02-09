@@ -1,4 +1,5 @@
 # DemoRepo
 This is my first Git Repository.
-<br>
-Author-Khushi
+<br><br>
+Author-Khushi Markan
+
